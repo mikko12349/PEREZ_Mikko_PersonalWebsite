@@ -1,0 +1,27 @@
+body{
+	background-color: #4a2A00;
+	font-family: verdana,arial,serif;
+	font-size: 0.8em;
+	margin-bottom: 20px;
+	margin-top: 20px;
+	text-align: center;
+}
+
+#container{
+}
+
+#header{
+	background-color: white;
+	height: 140px;
+	width: 100%;
+}
+
+#menubar{
+	
+}
+
+#content{
+}
+
+#footer{
+}
