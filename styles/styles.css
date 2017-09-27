@@ -1,6 +1,6 @@
 body{
 	margin:0px;
-	text-align:center;
+	
 }
 
 #container{
@@ -23,7 +23,7 @@ table,th{
 	border-collapse:collapse;
 	padding:0;
 	border:0px solid black;
-	background-attachment: fixed;
+
 	
 	border-left: solid 1px black;
 }
@@ -34,5 +34,6 @@ table,th{
 }
 
 
-#footer{
+#Footer{
+	background-color:gray;
 }
