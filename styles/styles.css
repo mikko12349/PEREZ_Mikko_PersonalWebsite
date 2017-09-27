@@ -1,12 +1,15 @@
-body{
-	margin:0px;
-	
+*{
+	margin:0;
+	padding:0;
+	list-style:none;
+	text-decoration:none;
 }
 
 #container{
 	height:100%;
 	width:100%;
 }
+
 #menubar{
 	height:60px;
 	position:fixed;
@@ -23,17 +26,17 @@ table,th{
 	border-collapse:collapse;
 	padding:0;
 	border:0px solid black;
-
-	
-	border-left: solid 1px black;
+	border-left: solid 2px #000203;
 }
 
 #AboutMe{
 	background-color:white;
 	width:100%;
 }
-
+#RecentWorks{
+	background-color:#919191;
+}
 
 #Footer{
-	background-color:gray;
+	background-color:#919191;
 }
