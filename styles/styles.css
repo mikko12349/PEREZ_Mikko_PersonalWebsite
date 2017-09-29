@@ -40,7 +40,10 @@ table,th{
 	border-left: solid 2px #000203;
 	
 }
-
+#Home1{
+	background: url('images/wallpaper.jpg') no-repeat;
+	
+}
 #AboutMe{
 	background-color:white;
 	width:100%;
