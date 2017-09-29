@@ -7,7 +7,7 @@
 
 #container{
 	height:100%;
-	width:100%;
+	width:auto;
 }
 
 #menubar{
@@ -21,15 +21,42 @@
 	color:#f7f558;
 	
 }
+ul{
+	
+	margin:0px;
+	padding:0px;
+	list-style:none;
+	width:100%;
+}
+ul li{
+	padding-top:10px;	
+	float:left;
+	width:250px;
+	height:40px; 
+	opacity:.8;
+	text-align:center;
+	font-size:30px;
+}
+ul li a{
+	text-decoration:none;
+	display:block;
+}
 
+ul li a:hover{
+	background-color:#464646;
+}
+ul li ul li{
+	display:none;
+}
+ul li:hover ul li{
+	display:block;
+}
 a{
-text-decoration:none;
-color:inherit;
+	text-decoration:none;
+	color:inherit;
 
 }
-th:hover{
-	background-color:black;
-}
+
 td{
 	text-align:center;
 }
@@ -40,13 +67,8 @@ table,th{
 	border-left: solid 2px #000203;
 	
 }
-#Home1{
-	background: url('images/wallpaper.jpg') no-repeat;
-	
-}
-#AboutMe{
-	background-color:white;
-	width:100%;
+#Skills1{
+	background-color:gray;
 }
 #RecentWorks1{
 	background-color:#919191;
