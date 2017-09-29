@@ -21,11 +21,18 @@
 	color:#f7f558;
 	
 }
-a{text-decoration:none;
+
+a{
+text-decoration:none;
 color:inherit;
 
 }
-
+th:hover{
+	background-color:black;
+}
+td{
+	text-align:center;
+}
 table,th{
 	border-collapse:collapse;
 	padding:0;
