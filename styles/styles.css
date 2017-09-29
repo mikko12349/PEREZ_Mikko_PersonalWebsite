@@ -16,9 +16,8 @@
     font-size: 30px;
 	position:fixed;
 	width:100%;
-	background-color:#464646;
-	
-	color:#f7f558;
+	background-color:#fa001d;
+	color:#0a0208;
 	
 }
 ul{
@@ -33,7 +32,7 @@ ul li{
 	float:left;
 	width:250px;
 	height:40px; 
-	opacity:.8;
+	
 	text-align:center;
 	font-size:30px;
 }
@@ -43,14 +42,14 @@ ul li a{
 }
 
 ul li a:hover{
-	background-color:#434444;
+	background-color:white;
 }
 ul li ul li{
 	display:none;
 }
 ul li:hover ul li{
 	display:block;
-	
+	background-color:#fa001d;
 }
 
 a{
@@ -73,7 +72,7 @@ table,th{
 	background-color:#e0e0e0;
 }
 #Skills1{
-	background-color:gray;
+	background-color:#e0e0e0;
 }
 #RecentWorks1{
 	background-color:#919191;
