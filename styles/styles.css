@@ -14,14 +14,12 @@
 	height:60px;
 	font-family: 'Rancho', serif;
     font-size: 30px;
-	position:fixed;
+	position:fixed;		
 	width:100%;
-	background-color:#fa001d;
+	background-color:#30b096;
 	color:#0a0208;
-	
 }
 ul{
-	
 	margin:0px;
 	padding:0px;
 	list-style:none;
@@ -32,7 +30,6 @@ ul li{
 	float:left;
 	width:250px;
 	height:40px; 
-	
 	text-align:center;
 	font-size:30px;
 }
@@ -49,7 +46,7 @@ ul li ul li{
 }
 ul li:hover ul li{
 	display:block;
-	background-color:#fa001d;
+	background-color:#30b096;
 }
 
 a{
