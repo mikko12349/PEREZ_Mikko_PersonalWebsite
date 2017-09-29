@@ -12,6 +12,8 @@
 
 #menubar{
 	height:60px;
+	font-family: 'Rancho', serif;
+    font-size: 30px;
 	position:fixed;
 	width:100%;
 	background-color:#464646;
