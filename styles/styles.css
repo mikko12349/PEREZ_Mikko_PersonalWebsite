@@ -59,10 +59,16 @@ a{
 	color:inherit;
 
 }
+#about{
+	font-size:70px;
+	font-family:Rosewood Std;
+}
 #name{
 	font-family:Lithos Pro;
 	font-size:20px;
 	text-align:left;
+	margin-left:-50px;
+	padding-left:0px;
 }
 #age{
 	font-family:Lithos Pro;
