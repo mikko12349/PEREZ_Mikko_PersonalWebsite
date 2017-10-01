@@ -14,18 +14,19 @@
 #menubar{
 	height:50px;
 	font-family: 'Rancho', serif;
-    font-size: 30px;
 	position:fixed;		
+    font-size: 30px;
 	width:100%;
-	background-color:#30b096;
+	background-color:rgba(38,141,120,0.5);
 	color:#0a0208;
-}
 
+}
 ul{
 	margin:0px;
 	padding:0px;
 	list-style:none;
 	width:100%;
+
 }
 ul li{
 	padding-top:10px;	
@@ -38,17 +39,19 @@ ul li{
 ul li a{
 	text-decoration:none;
 	display:block;
+	color:#ffffff;
 }
 
 ul li a:hover{
-	background-color:white;
+	background-color:black;
+	opacity:0.6;
 }
 ul li ul li{
 	display:none;
 }
 ul li:hover ul li{
 	display:block;
-	background-color:#30b096;
+	background-color:rgba(38,141,120,0.5);
 }
 
 a{
