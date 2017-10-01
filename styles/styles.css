@@ -59,7 +59,21 @@ a{
 	color:inherit;
 
 }
-
+#name{
+	font-family:Lithos Pro;
+	font-size:20px;
+	text-align:left;
+}
+#age{
+	font-family:Lithos Pro;
+	font-size:20px;
+	text-align:left;
+}
+#quote{
+	font-size:18px;
+	font-family:Forte;
+	text-align:center;
+}
 td{
 	text-align:center;
 }
