@@ -59,6 +59,9 @@ a{
 	color:inherit;
 
 }
+#recent{
+	padding-top:40px;
+}
 #about{
 	font-size:70px;
 	font-family:Rosewood Std;
@@ -86,7 +89,7 @@ td{
 table,th{
 	border-collapse:collapse;
 	padding:0;
-	border:0px solid black;
+	border:1px solid black;
 	border-left: solid 2px #000203;
 	
 }
