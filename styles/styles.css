@@ -59,6 +59,11 @@ a{
 	color:inherit;
 
 }
+#c{
+	font-family:Cooper Black;
+	font-size:20px;
+	padding-bottom:20px;
+}
 #recent{
 	padding-top:40px;
 	font-size:70px;
