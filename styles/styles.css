@@ -213,3 +213,19 @@ table,th{
 #Footer1{
 	background-color:rgba(38,141,120,0.8);
 }
+#gmail:hover{
+	background-color:rgba(38,141,120,0.8);
+	opacity:0.6;
+}
+#fb:hover{
+	background-color:rgba(38,141,120,0.8);
+	opacity:0.6;
+}
+#phone:hover{
+	background-color:rgba(38,141,120,0.8);
+	opacity:0.6;
+}
+#telephone:hover{
+	background-color:rgba(38,141,120,0.8);
+	opacity:0.6;
+}
