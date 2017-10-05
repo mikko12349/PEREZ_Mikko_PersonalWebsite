@@ -72,17 +72,37 @@ a{
 	font-size:20px;
 	padding-bottom:20px;
 }
+#low1{
+	padding-top:15px;
+	font-family:MV Boli;
+	font-style:italic;
+	font-size:14px;
+}
 #java{
-	margin-top:-50px;
+	margin-top:-38px;
 	font-family:Cooper Black;
 	font-size:20px;
 	padding-bottom:20px;
 }
+#low2{
+	padding-top:15px;
+	font-family:MV Boli;
+	font-style:italic;
+	font-size:14px;
+}
+
 #ps{
-	margin-top:-50px;
+	margin-top:-60px;
 	font-family:Cooper Black;
 	font-size:20px;
 	padding-bottom:20px;
+}
+
+#low3{
+	padding-top:15px;
+	font-family:MV Boli;
+	font-style:italic;
+	font-size:14px;
 }
 #recent{
 	padding-top:40px;
