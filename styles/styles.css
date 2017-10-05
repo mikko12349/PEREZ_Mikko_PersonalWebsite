@@ -65,7 +65,18 @@ a{
 	padding-top:40px;
 	margin-bottom:-100px;
 }
-
+#cpp_logo:hover{
+	background-color:#919191;
+	opacity:0.7;
+}
+#java_skills:hover{
+	background-color:#919191;
+	opacity:0.7;
+}
+#ps_logo:hover{
+	background-color:#919191;
+	opacity:0.7;
+}
 #c{
 	margin-top:-38px;
 	font-family:Cooper Black;
@@ -108,6 +119,18 @@ a{
 	padding-top:40px;
 	font-size:70px;
 	font-family:Rosewood Std;
+}
+#jav2:hover{
+	background-color:#e0e0e0;
+	opacity:0.7;
+}
+#davao_cms:hover{
+	background-color:#e0e0e0;
+	opacity:0.7;
+}
+#logo_design:hover{
+	background-color:#e0e0e0;
+	opacity:0.7;
 }
 #low4{
 	padding-top:15px;
